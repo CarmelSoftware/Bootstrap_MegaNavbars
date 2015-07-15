@@ -4,9 +4,9 @@ A Bootstrap MegaNavbar with two dropdown menus, including Carousel, Table, List 
 ####By Carmel Schvartzman
 
 This Bootstrap App code is the companion for the following Tutorial:
- 
+ http://themvcclub.blogspot.com/2015/07/bootstrap-tutorial-responsive-meganavbars.html
 
-<a href="http://themvcclub.blogspot.com/2015/05/bootstrap-tutorial-lesson-5-responsive-forms.html" imageanchor="1" target="_blank" style="margin-left: 1em; margin-right: 1em;">
+<a href="http://themvcclub.blogspot.com/2015/07/bootstrap-tutorial-responsive-meganavbars.html" imageanchor="1" target="_blank" style="margin-left: 1em; margin-right: 1em;">
 
 
 
