@@ -9,6 +9,9 @@ This Bootstrap App code is the companion for the following Tutorial:
 
 <a href="http://themvcclub.blogspot.com/2015/07/bootstrap-tutorial-responsive-meganavbars.html" imageanchor="1" target="_blank" style="margin-left: 1em; margin-right: 1em;">
 
+
+
+
 <img alt=" MegaNavbars          " border="0" height="482" src="http://2.bp.blogspot.com/-4R1QVKEsSlA/VaYaSzwv91I/AAAAAAAALZQ/rkG4TOSHdUs/s540/7.png" width="540" />
 
 
